@@ -1,0 +1,21 @@
+.main-container{
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+.sidebar{
+  min-height: 800px;
+}
+.card{
+  margin: 30px 50px;
+  min-width: 50px;
+}
+.tags{
+  margin-inline: 5px;
+}
+.CreatePost{
+  margin: 30px 50px;
+  padding: 30px;
+  border: 1px solid rgb(220, 213, 213);
+}

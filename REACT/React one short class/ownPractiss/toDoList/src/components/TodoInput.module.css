@@ -1,0 +1,17 @@
+.inputDiv{
+  display: grid;
+  gap: 15px;
+  grid-template-columns: 3fr 2fr 1fr;
+}
+input{
+  border-radius: 50px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  padding-inline: 10px;
+  font-size: larger;
+}
+.inputText{
+  width: 250px;
+  height: 35px;
+}

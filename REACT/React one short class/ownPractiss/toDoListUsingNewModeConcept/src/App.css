@@ -1,0 +1,11 @@
+.Contets_Div{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid; */
+  border-radius: 15px;
+  background-color: rgb(225, 251, 242);
+  margin: 50px;
+  padding: 35px;
+  gap: 15px;
+}

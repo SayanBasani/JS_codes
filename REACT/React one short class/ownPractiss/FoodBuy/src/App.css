@@ -1,0 +1,9 @@
+.FoodMainContainer{
+  background-color: rgb(215, 192, 236);
+  width: 500px;
+  padding: 20px 10px;
+  display: grid;
+  justify-content: center;
+  border-radius: 15px;
+  gap: 20px;
+}

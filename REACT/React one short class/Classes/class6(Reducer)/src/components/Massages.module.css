@@ -1,0 +1,7 @@
+.massage_Test{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  color: rgb(3, 173, 3);
+}

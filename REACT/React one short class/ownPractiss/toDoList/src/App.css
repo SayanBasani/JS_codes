@@ -1,0 +1,9 @@
+.mainDiv{
+  background-color: rgb(9, 69, 122);
+  width: 600px;
+  padding: 20px;
+  border-radius: 10px;
+  display: grid;
+  justify-content: center;
+  gap: 20px;
+}

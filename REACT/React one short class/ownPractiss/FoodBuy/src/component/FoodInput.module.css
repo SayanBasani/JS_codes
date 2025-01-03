@@ -1,0 +1,11 @@
+.foodinputdiv{
+  display: flex;
+  justify-content: center;
+}
+.foodinput{
+  width: 250px;
+  height: 25px;
+  border-radius: 30px;
+  font-size: larger;
+  padding: 10px;
+}

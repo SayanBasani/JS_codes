@@ -1,0 +1,8 @@
+.maincontainer{
+  padding: 3rem;
+  gap: 10px;
+  /* background-color: black; */
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}

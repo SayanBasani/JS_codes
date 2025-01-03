@@ -1,0 +1,13 @@
+.inputbox{
+  border-radius: 50px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-inline: 10px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.inputcontainer{
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 20fr 20fr 8fr;
+}

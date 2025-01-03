@@ -1,0 +1,17 @@
+.listbody{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  font-size: 20px;
+  grid-template-columns: 20fr 20fr 8fr;
+}
+.listbox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+}
+.removebox{
+  background-color: red;
+}

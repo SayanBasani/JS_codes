@@ -1,0 +1,30 @@
+.heading_Tasks{
+  display: grid;
+  justify-self: center;
+  align-items: center;
+
+}
+.heading_Dates{
+  display: grid;
+  justify-self: center;
+  align-items: center;
+
+}
+.heading_Div{
+  display: grid;
+  justify-self: center;
+  align-items: center;
+  width: 400px;
+  grid-template-columns: 3fr 2fr 1fr;
+  border-radius: 15px;
+  background-color: azure;
+}
+.heading_Buttons{
+  display: grid;
+  justify-self: center;
+  align-items: center;
+  width: min-content;
+  height: min-content;
+  border-radius: 10px;
+  padding: 5px;
+}
